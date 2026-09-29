@@ -20,11 +20,8 @@
  "vallée de l'est": "eastern valley",
  "hauts plateaux": "highlands",
  "extrême ouest": "far west",
- "total": "Total",
- "taux_chomage_par_region": "Unemployment rate by region",
- "population_residente": "Resident population by region, 1 July 2025 (thousands)",
- "menages_internet": "Households with home internet connection (%)",
- "%": "%",
- "hab/km2": "inhabitants/km²",
- "thousands": "thousands"
+ "01 - produits alimentaires et boissons non alcoolisées": "01 - Food products and non-alcoholic beverages",
+ "02 - boissons alcoolisées et tabac": "02 - Alcoholic beverages and tobacco",
+ "cpi_al_hoceima_aug2026": "cpi_al_hoceima_aug2026",
+ "%": "%"
 }
