@@ -1,3 +1,9 @@
+**Tableau de bord en ligne : <https://musttaleb2017.github.io/stg17-dashboard/>**
+
+Reconstruit en exécutant le notebook de ce dépôt sur la publication source. Dernière publication le 2026-09-29.
+
+---
+
 # Bulletin statistique trimestriel
 
 Tableau de bord bilingue (EN/FR) construit à partir de **Bulletin statistique trimestriel**, pages 1, 2.
