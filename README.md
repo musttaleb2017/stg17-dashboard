@@ -1,3 +1,9 @@
+**Tableau de bord en ligne : <https://musttaleb2017.github.io/stg17-dashboard/>**
+
+Reconstruit en exécutant le notebook de ce dépôt sur la publication source. Dernière publication le 2026-09-29.
+
+---
+
 # Indice des prix à la consommation – Al Hoceima (août 2026)
 
 Tableau de bord bilingue (EN/FR) construit à partir de **Note d'Information de la Direction Régionale de Tanger-Tétouan-Al Hoceima**, pages 2, 3, 4.
